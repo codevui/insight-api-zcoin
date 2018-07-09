@@ -2,7 +2,7 @@
     "name": "insight-api-zcoin",
     "description": "A Zcoin blockchain REST and web socket API service for Bitcore Node.",
     "version": "0.4.5",
-    "repository": "git://github.com/sn-ntu/insight-api-zcoin.git",
+    "repository": "git://github.com/codevui/insight-api-zcoin.git",
     "contributors": [
         {
             "name": "Gustavo Cortez",
@@ -63,8 +63,8 @@
     "bitcoreNode": "lib",
     "dependencies": {
         "async": "*",
-        "bitcore-lib-zcoin": "git://github.com/sn-ntu/bitcore-lib-zcoin.git",
-        "bitcore-message-zcoin": "git://github.com/sn-ntu/bitcore-message-zcoin.git",
+        "bitcore-lib-zcoin": "git://github.com/codevui/bitcore-lib-zcoin.git",
+        "bitcore-message-zcoin": "git://github.com/codevui/bitcore-message-zcoin.git",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
         "lodash": "^2.4.1",
